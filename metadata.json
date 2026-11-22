@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Telemetry",
+  "description": "Precision IoT smart parking bay floorplan, hardware telemetry console, RFID gate control, and ALPR access registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
